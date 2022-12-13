@@ -1,0 +1,6 @@
+thisdict = {
+  "brand": "Ford",
+  "eletric": False,
+  "year": 1964,
+  "colors": ["red", "white", "blue"]
+}
