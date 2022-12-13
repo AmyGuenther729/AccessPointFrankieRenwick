@@ -1,0 +1,9 @@
+car = {
+  "brand": "Ford",
+  "model": "Mustange",
+  "year": 1964
+}
+
+x = car.keys()
+
+print(car.values())
